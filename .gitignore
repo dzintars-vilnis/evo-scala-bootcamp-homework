@@ -1,0 +1,14 @@
+*.class
+*.log
+
+.idea/
+
+.bloop
+.history
+.metals
+.vscode
+metals.sbt
+
+target/
+
+.DS_Store
